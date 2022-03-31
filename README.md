@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://www.ecured.cu/images/a/a8/Pandas_python.png">
+  <img src="https://i.redd.it/c6h7rok9c2v31.jpg">
 </p>
 
 
